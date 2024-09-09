@@ -1,1 +1,1 @@
-# [Link App](https://sawatary.github.io/AIMLAB/)
+# [Link App](https://sawatary.github.io/aimlab-game/)
