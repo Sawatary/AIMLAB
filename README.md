@@ -1,1 +1,1 @@
-- [Link app]([https://example.com](https://sawatary.github.io/AIMLAB/))
+[Link app](https://sawatary.github.io/AIMLAB/)
